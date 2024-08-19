@@ -1,4 +1,4 @@
-import 'package:e_learning_app/components/constants.dart';
+import 'package:e_learning_app/constants.dart';
 import 'package:flutter/material.dart';
 
 class CustomAppBar extends StatelessWidget {
